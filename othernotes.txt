@@ -1,0 +1,56 @@
+ http://tlp360.com/tlpfeedback/index.php?r=survey/index
+r=survey/index
+http://tlp360.com/tlpfeedback/index.php?r=survey/index&912828X2X10=f&912828X2X11=g&912828X2X12=f&912828X2X13=hh&912828X2X9=h&LEMpostKey=2063926875&YII_CSRF_TOKEN=525f3d55fef418592320d640b2d8ab3101e4eb43&fieldnames=912828X2X9%7C912828X2X10%7C912828X2X11%7C912828X2X12%7C912828X2X13&lastgroup=912828X2&movesubmit=movesubmit&relevance10=1&relevance11=1&relevance12=1&relevance13=1&relevance9=1&relevanceG0=1&sid=912828&start_time=1390652966&thisstep=1&token=kxhg7v8z2dvfvak
+
+912828X2X10=f
+912828X2X11=g
+912828X2X12=f
+912828X2X13=hh
+912828X2X9=h
+LEMpostKey=2063926875
+YII_CSRF_TOKEN=525f3d55fef418592320d640b2d8ab3101e4eb43
+fieldnames=912828X2X9|912828X2X10|912828X2X11|912828X2X12|912828X2X13
+lastgroup=912828X2
+movesubmit=movesubmit
+relevance10=1
+relevance11=1
+relevance12=1
+relevance13=1
+relevance9=1
+relevanceG0=1
+sid=912828
+start_time=1390652966
+thisstep=1
+token=kxhg7v8z2dvfvak
+
+POST /tlpfeedback/index.php?r=survey/index HTTP/1.1
+Host: tlp360.com
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://tlp360.com/tlpfeedback/index.php?r=survey/index
+Cookie: PHPSESSID=0d1ab4c7fa5e4365a1c43f9a2ab592f0; YII_CSRF_TOKEN=525f3d55fef418592320d640b2d8ab3101e4eb43
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Vary: Accept-Encoding, User-Agent
+Date: Sat, 25 Jan 2014 12:29:54 GMT
+Server: LiteSpeed
+Connection: close
+X-Powered-By: PHP/5.3.17
+Set-Cookie: limesurvey_timers=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Sat, 25 Jan 2014 12:29:54 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Length: 1023
+
+curl 'http://tlp360.com/tlpfeedback/index.php?r=survey/index' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: en-US,en;q=0.5' -H 'Connection: keep-alive' -H 'Cookie: PHPSESSID=0d1ab4c7fa5e4365a1c43f9a2ab592f0; YII_CSRF_TOKEN=525f3d55fef418592320d640b2d8ab3101e4eb43' -H 'Host: tlp360.com' -H 'Referer: http://tlp360.com/tlpfeedback/index.php?r=survey/index' -H 'User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0' -H 'Content-Type: application/x-www-form-urlencoded' --data 'YII_CSRF_TOKEN=525f3d55fef418592320d640b2d8ab3101e4eb43&fieldnames=912828X2X9%7C912828X2X10%7C912828X2X11%7C912828X2X12%7C912828X2X13&912828X2X9=h&912828X2X10=f&912828X2X11=g&912828X2X12=f&912828X2X13=hh&lastgroup=912828X2&relevance9=1&relevance10=1&relevance11=1&relevance12=1&relevance13=1&relevanceG0=1&movesubmit=movesubmit&thisstep=1&sid=912828&start_time=1390652966&LEMpostKey=2063926875&token=kxhg7v8z2dvfvak'
+--------------------------
+
+
+http://tlp360.com/tlpfeedback/index.php?r=survey/index&912828X2X10=f&912828X2X11=g&912828X2X12=f&912828X2X13=hh&912828X2X9=h&LEMpostKey=2063926875&YII_CSRF_TOKEN=525f3d55fef418592320d640b2d8ab3101e4eb43&fieldnames=912828X2X9%7C912828X2X10%7C912828X2X11%7C912828X2X12%7C912828X2X13&lastgroup=912828X2&movesubmit=movesubmit&relevance10=1&relevance11=1&relevance12=1&relevance13=1&relevance9=1&relevanceG0=1&sid=912828&start_time=1390652966&thisstep=1&token=nbcb67i9y3wyvxb

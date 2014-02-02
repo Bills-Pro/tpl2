@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tpl2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="token">Token</string>
+    <string name="SampleQuestion">He/she has the ability to manage people from different functions, mindset, having different values and believe systems and work experience and work styles to get results and achieve organizational objectives.</string>
+	<string name="ans1">Strong Disagree Or Not at All</string>
+	<string name="ans2">Disagree Or Once in a while</string>
+	<string name="ans3">Slightly Disagree Or Sometimes</string>
+	<string name="ans4">Slightly Agree Or Fairly Often</string>
+	<string name="ans5">Agree Or Frequently,If not always</string>
+	<string name="ans6">Strongly Agree Or Always</string>
+</resources>
